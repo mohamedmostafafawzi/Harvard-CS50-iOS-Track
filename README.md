@@ -9,11 +9,8 @@ This is CS50 iOS Track, Harvard University's introduction to iOS Development.
 - [x] Lesson 04 
 - [x] Lesson 05 
 - [x] Project 01 | Pokédex 
-- [ ] Project 01 | Pokédex Final
 - [x] Project 02 | Fiftygram 
-- [ ] Project 02 | Fiftygram Final
 - [x] Project 03 | Notes
-- [ ] Project 03 | Notes Final
 
 ##
 [Harvard CS50 - iOS Track](https://cs50.harvard.edu/x/2020/tracks/mobile/ios/)
