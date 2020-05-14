@@ -11,7 +11,7 @@ This is CS50 iOS Track, Harvard University's introduction to iOS Development.
 - [x] Lesson 04 
 - [x] Project 02 | Fiftygram 
 - [x] Lesson 05 
-- [x] Project 02 | Notes
+- [x] Project 03 | Notes
 - [x] Conclusion       
 
 ##
