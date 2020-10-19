@@ -2,7 +2,7 @@
 This is CS50 iOS Track, Harvard University's introduction to iOS Development.
 
 ## Progress
-- [x] Introduction(https://youtu.be/fovkicji8KQ)
+- [x] [Introduction](https://youtu.be/fovkicji8KQ)
 - [x] [Lesson 01](https://youtu.be/7IaM0ZN1i7Q)       
 - [x] [Lesson 02](https://youtu.be/SSjrnG4v90U)
 - [x] [Lesson 03](https://youtu.be/DfFQ9nManXo)
